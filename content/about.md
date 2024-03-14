@@ -1,5 +1,6 @@
 ---
-title: About
+_schema: default
+title: Aboutm
 seo:
   page_description:
   canonical_url:
@@ -34,12 +35,16 @@ content_blocks:
         prefix: $
         text: Venture capital raised
       - number: 2016
+        suffix: m
+        prefix: $
         text: Established in
       - number: 40
         suffix: +
+        prefix: $
         text: Amazing team members
       - number: 44325
         suffix: +
+        prefix: $
         text: Active users and growing
   - _bookshop_name: about/video
     title: We love what we do
